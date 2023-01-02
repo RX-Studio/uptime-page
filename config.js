@@ -29,5 +29,9 @@ window.Config = {
       text: 'Blog',
       url: 'https://blog.rxgzs.cn/'
     },
+    {
+      text: '报告故障',
+      url: 'https://url.rxgzs.cn/tucao'
+    },
   ],
 };
